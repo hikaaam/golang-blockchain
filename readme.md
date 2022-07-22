@@ -10,8 +10,11 @@
 ### How To Run
 build and run the executable
 `go build src/main.go`
+
 `main.exe`
+
 or
+
 `go run src/main.go`
 
 ---
